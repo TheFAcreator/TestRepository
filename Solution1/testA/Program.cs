@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class C
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Testing");
+        Console.WriteLine();
+    }
+}
